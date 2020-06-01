@@ -1,0 +1,70 @@
+/* Global */
+body {
+  background-color: #342b38;
+}
+
+/* classes */
+.divPlayers {
+  text-align: center;
+}
+
+.divPlayer1 {
+  text-align: center;
+  /* float: left; */
+  display: inline-block;
+}
+
+.divPlayer2 {
+  text-align: center;
+  /* float: right; */
+  display: inline-block;
+}
+
+.header {
+  color: #80bdab;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4rem;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.headerPlayer1 {
+  color: #80bdab;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.headerPlayer2 {
+  color: #80bdab;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.dices {
+  width: 50%;
+}
+
+.dicePlayer1 {
+  text-align: center;
+}
+
+.dicePlayer2 {
+  text-align: center;
+}
+
+.refreshButton {
+  text-align: center;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.footer {
+  color: #80bdab;
+  font-size: 0.7rem;
+  text-align: center;
+  padding-top: 50px;
+}
